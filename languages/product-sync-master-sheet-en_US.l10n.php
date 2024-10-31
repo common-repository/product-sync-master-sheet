@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Product Stock Sync with Google Sheet for WooCommerce','report-msgid-bugs-to'=>'','pot-creation-date'=>'2023-12-24 08:42+0000','po-revision-date'=>'2024-06-12 04:36+0000','last-translator'=>'','language-team'=>'English (United States)','language'=>'en_US','plural-forms'=>'nplurals=2; plural=n != 1;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.6; wp-6.4.2','x-domain'=>'product-sync-master-sheet','messages'=>[]];

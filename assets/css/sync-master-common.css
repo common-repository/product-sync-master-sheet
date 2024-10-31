@@ -1,0 +1,20 @@
+#adminmenu li#toplevel_page_pssg-sync .wp-menu-image img {
+    opacity: 1 !important;
+    box-shadow: 0px 1px 3px 0 #0000009c;
+    margin-top: 10px;
+    padding: 0;
+}
+#adminmenu li#toplevel_page_pssg-sync.current a.menu-top{
+    background: #286988;
+    /* color: #ffca7d; */
+}
+#adminmenu li#toplevel_page_pssg-sync.current .wp-menu-image img {
+    box-shadow: -2px 3px 1px 0 #0000008f;
+    margin-top: 10px;
+    padding: 0;
+}
+
+table.pssg-table thead tr h3>a {
+    font-size: 16px;
+    color: #4caf50;
+}

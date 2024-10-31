@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Stock Sync with Google Sheet for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-24 08:42+0000\n"
+"PO-Revision-Date: 2024-06-12 04:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: product-sync-master-sheet"
+
+#: admin/page-loader.php:80 admin/page-loader.php:81 admin/page-loader.php:82
+msgid " Premium"
+msgstr ""
+
+#: product-sync-master-sheet.php:141
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. %s: file location uri
+#: admin/pages/settings.php:54
+#, php-format
+msgid "%s file is not founded!"
+msgstr ""
+
+#: app/http/sheet.php:1000
+msgid "Access Token not founded"
+msgstr ""
+
+#: app/handle/form-submit.php:55 app/handle/form-submit.php:69
+#: app/handle/form-submit.php:95
+msgid "Action req not founded!"
+msgstr ""
+
+#: admin/page-loader.php:165
+msgid "All Syncronized"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:43
+msgid "API Key"
+msgstr ""
+
+#: app/http/sheet.php:107
+msgid "API key not found"
+msgstr ""
+
+#: app/http/sheet.php:1058
+msgid "API_Key/ServiceJSON File/SheetURL - any one or more of them is missing"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:61
+msgid "AppScript"
+msgstr ""
+
+#: admin/page-loader.php:180
+msgid ""
+"Are you sure!\n"
+"Delete Service JSON file.\n"
+" OK or Cancel."
+msgstr ""
+
+#: admin/page-loader.php:175
+msgid ""
+"Are you sure!\n"
+"Want to Destroy Sheet data.\n"
+" OK or Cancel."
+msgstr ""
+
+#: admin/page-loader.php:171
+msgid "Check following Error"
+msgstr ""
+
+#: admin/pages/incs/settings.php:56
+msgid "Checkout Quick Table"
+msgstr ""
+
+#: admin/pages/setup-steps/editor_email.php:43
+msgid "Click on Add people button and Add email with Editor Permisions."
+msgstr ""
+
+#: admin/pages/setup-steps/editor_email.php:41
+msgid "Click on Share button."
+msgstr ""
+
+#. Author of the plugin
+msgid "CodeAstrology Team"
+msgstr ""
+
+#: app/core/admin-base.php:36
+msgid "Configuration Setup is not started."
+msgstr ""
+
+#: admin/page-loader.php:182
+msgid "Copied, Add this email as your Sheet's Editor"
+msgstr ""
+
+#: admin/pages/setup-steps/app_script.php:14
+msgid "Copy AppsScript"
+msgstr ""
+
+#: admin/pages/setup-steps/create_project.php:19
+msgid "Create a project"
+msgstr ""
+
+#: admin/pages/setup-steps/service_file.php:15
+msgid "Create a Service JSON file"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:33
+msgid "Create Project"
+msgstr ""
+
+#: admin/page-loader.php:162
+msgid "Create Sheet"
+msgstr ""
+
+#: admin/pages/setup-steps/api_key.php:16
+msgid "Credentials – APIs & Services"
+msgstr ""
+
+#: app/handle/form-submit.php:387
+msgid "Data not set"
+msgstr ""
+
+#: app/handle/form-submit.php:341
+msgid "Database key not founded"
+msgstr ""
+
+#: admin/pages/setup-steps/finish.php:68
+msgid "Delete all from Sheet"
+msgstr ""
+
+#: admin/page-loader.php:178
+msgid "Deleteing.."
+msgstr ""
+
+#: admin/pages/topbar.php:55
+msgid "Documentation"
+msgstr ""
+
+#: admin/page-loader.php:170
+msgid "Done and Limit Crossed!"
+msgstr ""
+
+#: admin/pages/setup-steps/service_file.php:29
+msgid "Drag and drop your Sevice JSON file here or click to select."
+msgstr ""
+
+#: admin/pages/incs/settings.php:43
+msgid "Edit Table Title"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:55
+msgid "Editor Email"
+msgstr ""
+
+#: app/handle/form-submit.php:181
+msgid "Empty API_KEY."
+msgstr ""
+
+#: app/handle/form-submit.php:177
+msgid "Empty Sheet Name."
+msgstr ""
+
+#: admin/pages/setup-wizard.php:49
+msgid "Enable Sheet API"
+msgstr ""
+
+#: admin/page-loader.php:172
+msgid "Error Code: "
+msgstr ""
+
+#: app/handle/api-request-handle.php:230
+msgid "Failed to create new product."
+msgstr ""
+
+#: admin/page-loader.php:259
+msgid "File content is not json!"
+msgstr ""
+
+#: admin/page-loader.php:181
+msgid "File selected: "
+msgstr ""
+
+#: admin/pages/setup-wizard.php:72
+msgid "Finish"
+msgstr ""
+
+#: app/handle/form-submit.php:104
+msgid "Form is not submitted."
+msgstr ""
+
+#: app/handle/form-submit.php:106 app/handle/form-submit.php:325
+msgid "Form submission error!"
+msgstr ""
+
+#: admin/pages/topbar.php:48
+msgid "Get Premium Version"
+msgstr ""
+
+#: app/functions.php:199 admin/pages/setup-steps/sheet_url.php:12
+msgid "Google Sheet"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Help you to connect your WooCommerce website with Google Sheet as well as "
+"Manage your Stock easy from one menu with Advance Filter"
+msgstr ""
+
+#: app/functions.php:43
+msgid "Helper doc"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeastrology.com/how-to-setup-product-sync-master-plugin/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/codersaiful/#content-plugins"
+msgstr ""
+
+#: app/service/products.php:546
+msgid "ID"
+msgstr ""
+
+#: admin/page-loader.php:97
+msgid "Installation Wizard"
+msgstr ""
+
+#: app/functions.php:218
+msgid "Invalid argument. Please check API_KEY."
+msgstr ""
+
+#: admin/page-loader.php:164
+msgid "Invalid file type. Please select a JSON file."
+msgstr ""
+
+#: app/handle/form-submit.php:169
+msgid "Invalid/Empty Google Sheets link."
+msgstr ""
+
+#: app/handle/quick-table.php:167
+msgid "Limit Crossed, Need Premium version."
+msgstr ""
+
+#: app/handle/api-request-handle.php:212
+msgid "New Dummy Product"
+msgstr ""
+
+#: app/handle/quick-table.php:243
+msgid "Next"
+msgstr ""
+
+#: admin/page-loader.php:43
+msgid "Next door to Google Sheets"
+msgstr ""
+
+#: app/functions.php:114
+msgid "Next Step"
+msgstr ""
+
+#: app/handle/quick-table.php:305
+msgid "No product ID matched"
+msgstr ""
+
+#: admin/admin-loader.php:52 admin/page-loader.php:230
+#: app/handle/form-submit.php:363 app/http/sheet.php:430
+msgid "Nonce not founded"
+msgstr ""
+
+#: admin/pages/setup-steps/create_project.php:48
+msgid "Or Choose an existing project."
+msgstr ""
+
+#: admin/admin-loader.php:65
+msgid "Params empty or somethig went wrong"
+msgstr ""
+
+#: app/handle/quick-table.php:273
+msgid "Params not founed"
+msgstr ""
+
+#: admin/page-loader.php:169
+msgid "Pause"
+msgstr ""
+
+#: admin/page-loader.php:168
+msgid "Paused"
+msgstr ""
+
+#: app/functions.php:215
+msgid "Permission denied. Please check Enable Sheet API."
+msgstr ""
+
+#: admin/page-loader.php:173
+msgid "Please check connection again!"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:202
+msgid "Please complete all the steps before Sync."
+msgstr ""
+
+#: admin/page-loader.php:90 admin/pages/topbar.php:28
+msgid "Premium"
+msgstr ""
+
+#: app/handle/quick-table.php:242
+msgid "Previous"
+msgstr ""
+
+#: app/service/products.php:535
+msgid "Price"
+msgstr ""
+
+#: admin/pages/incs/getting-start.php:5
+msgid "Pro Features"
+msgstr ""
+
+#: app/http/sheet.php:74
+msgid "Problem in srvice file."
+msgstr ""
+
+#: app/handle/quick-table.php:274
+msgid "Product ID not founed"
+msgstr ""
+
+#: admin/page-loader.php:75 admin/page-loader.php:76
+msgid "Product Quick Edit"
+msgstr ""
+
+#: app/handle/quick-table.php:133
+msgid "Product Quick Edit Table"
+msgstr ""
+
+#: product-sync-master-sheet.php:46
+msgid "Product Stock Sync with Google Sheet for WooCommerce"
+msgstr ""
+
+#: app/service/products.php:523
+msgid "Product Title"
+msgstr ""
+
+#: app/handle/api-request-handle.php:188 app/handle/quick-table.php:300
+msgid "Product Updated Successfully"
+msgstr ""
+
+#: admin/page-loader.php:115
+msgid "Quick Edits"
+msgstr ""
+
+#: app/service/products.php:531
+msgid "R Price"
+msgstr ""
+
+#: app/service/products.php:539
+msgid "Sale Price"
+msgstr ""
+
+#: admin/pages/settings.php:85 admin/pages/setup-wizard.php:223
+msgid "Save Change"
+msgstr ""
+
+#: admin/page-loader.php:179
+msgid "Saving.."
+msgstr ""
+
+#: admin/pages/setup-steps/add_trigger.php:32
+#: admin/pages/setup-steps/app_script.php:81
+msgid "Schreenshot and Video"
+msgstr ""
+
+#: app/functions.php:115
+msgid "Screenshot"
+msgstr ""
+
+#: admin/pages/setup-steps/api_key.php:23
+msgid "Screenshots"
+msgstr ""
+
+#: admin/pages/setup-steps/editor_email.php:35
+msgid "Screenshots and Video"
+msgstr ""
+
+#: admin/page-loader.php:183
+msgid "Script Copied! - Now add to your Sheet."
+msgstr ""
+
+#: admin/pages/setup-steps/service_file.php:31
+msgid "Select File"
+msgstr ""
+
+#: app/functions.php:239
+msgid "Select Sheet"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:38
+msgid "Service File"
+msgstr ""
+
+#: admin/page-loader.php:255
+msgid "Service file content is not right"
+msgstr ""
+
+#: admin/page-loader.php:250
+msgid "Service file is OK"
+msgstr ""
+
+#: admin/page-loader.php:287
+msgid "Service json file has removed."
+msgstr ""
+
+#: admin/page-loader.php:289 app/handle/form-submit.php:189
+msgid "Service json file not founded."
+msgstr ""
+
+#: admin/page-loader.php:72
+msgid "Setting different options"
+msgstr ""
+
+#: admin/admin-loader.php:44 admin/page-loader.php:73 admin/page-loader.php:106
+#: admin/pages/incs/settings.php:12
+msgid "Settings"
+msgstr ""
+
+#: admin/pages/incs/getting-start.php:44
+msgid "Setup guide - step by step"
+msgstr ""
+
+#: admin/page-loader.php:292
+msgid "Sevcie file is not founded."
+msgstr ""
+
+#: admin/page-loader.php:176
+msgid "Sheet Cleared!"
+msgstr ""
+
+#: admin/page-loader.php:177
+msgid "Sheet has Cleared!"
+msgstr ""
+
+#: app/handle/form-submit.php:158
+msgid "Sheet ID not founded"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:28
+msgid "Sheet Name"
+msgstr ""
+
+#: app/http/sheet.php:102
+msgid "Sheet name not founded"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:24
+msgid "Sheet URL"
+msgstr ""
+
+#: app/http/sheet.php:88
+msgid "Sheet URL is not added"
+msgstr ""
+
+#: admin/page-loader.php:185
+msgid "Show All"
+msgstr ""
+
+#: app/handle/quick-table.php:261
+msgid "Showing %post_count% out of %found_posts%"
+msgstr ""
+
+#: app/http/sheet.php:97
+msgid "Spreadsheet ID not found!"
+msgstr ""
+
+#: app/service/products.php:527
+msgid "Stock"
+msgstr ""
+
+#: admin/pages/setup-steps/create_project.php:44
+msgid "Submit project and click on CREATE button."
+msgstr ""
+
+#: app/handle/api-request-handle.php:221
+msgid "Success"
+msgstr ""
+
+#: admin/page-loader.php:166
+msgid "Sync Done"
+msgstr ""
+
+#: admin/page-loader.php:64 admin/page-loader.php:65 admin/pages/topbar.php:23
+msgid "Sync Master Sheet"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sync Master Sheet - Product Sync with Google Sheet for WooCommerce"
+msgstr ""
+
+#: admin/pages/topbar.php:9
+msgid "Syncronize Dashboard"
+msgstr ""
+
+#: admin/pages/setup-steps/finish.php:61
+msgid "Syncronize Sheet"
+msgstr ""
+
+#: admin/page-loader.php:167
+msgid "Syncronizing..."
+msgstr ""
+
+#: admin/page-loader.php:303
+#, php-format
+msgid ""
+"Thank you for using our Plugin <a href=\"%s\" target=\"_blank\">%sPlease "
+"review us</a>."
+msgstr ""
+
+#: app/handle/form-submit.php:170
+msgid "There is an error on your Spreadsheet URL."
+msgstr ""
+
+#: admin/pages/incs/getting-start.php:41
+msgid "Total Sync:"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:66
+msgid "Trigger"
+msgstr ""
+
+#: app/service/products.php:550
+msgid "Type"
+msgstr ""
+
+#: admin/page-loader.php:184
+msgid "Unable to copy to clipboard"
+msgstr ""
+
+#: app/handle/quick-table.php:211
+msgid "Unable to edit"
+msgstr ""
+
+#: admin/pages/setup-steps/service_file.php:20
+msgid "Upload your service file"
+msgstr ""
+
+#: product-sync-master-sheet.php:143
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/page-loader.php:174
+msgid "Wow Sync: total currentCount products"
+msgstr ""
+
+#: admin/page-loader.php:278
+msgid "Wrong file is not uploaded to server"
+msgstr ""
+
+#: admin/pages/setup-steps/sheet_url.php:9
+msgid "Your Google Sheet"
+msgstr ""
+
+#: admin/page-loader.php:163 admin/pages/setup-steps/add_trigger.php:13
+#: admin/pages/setup-steps/app_script.php:61
+#: admin/pages/setup-steps/editor_email.php:15
+#: admin/pages/setup-steps/finish.php:79
+#: admin/pages/setup-steps/sheet_name.php:25
+msgid "Your Sheet"
+msgstr ""

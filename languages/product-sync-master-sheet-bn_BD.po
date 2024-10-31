@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Stock Sync with Google Sheet for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-24 08:42+0000\n"
+"PO-Revision-Date: 2024-06-12 03:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: product-sync-master-sheet"
+
+#: admin/page-loader.php:80 admin/page-loader.php:81 admin/page-loader.php:82
+msgid " Premium"
+msgstr "প্রিমিয়াম"
+
+#: product-sync-master-sheet.php:141
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" এর জন্য \"%2$s\" প্লাগিন টি প্রয়োজন।"
+
+#. %s: file location uri
+#: admin/pages/settings.php:54
+#, php-format
+msgid "%s file is not founded!"
+msgstr "%s ফাইল পাওয়া যায়নি!"
+
+#: app/http/sheet.php:1000
+msgid "Access Token not founded"
+msgstr "Access Token পাওয়া যায়নি"
+
+#: app/handle/form-submit.php:55 app/handle/form-submit.php:69
+#: app/handle/form-submit.php:95
+msgid "Action req not founded!"
+msgstr "Action req পাওয়া যায়নি!"
+
+#: admin/page-loader.php:165
+msgid "All Syncronized"
+msgstr "সম্পুর্নরুপে সিংক্রোনাইজ হয়েছে"
+
+#: admin/pages/setup-wizard.php:43
+msgid "API Key"
+msgstr "API Key"
+
+#: app/http/sheet.php:107
+#, fuzzy
+#| msgid "API key not foun"
+msgid "API key not found"
+msgstr "API Key পাওয়া যায়নি"
+
+#: app/http/sheet.php:1058
+msgid "API_Key/ServiceJSON File/SheetURL - any one or more of them is missing"
+msgstr ""
+
+#: admin/pages/setup-wizard.php:61
+#, fuzzy
+#| msgid "AppsScript"
+msgid "AppScript"
+msgstr "এপসস্ক্রিপ্ট"
+
+#: admin/page-loader.php:180
+msgid ""
+"Are you sure!\n"
+"Delete Service JSON file.\n"
+" OK or Cancel."
+msgstr ""
+"আপনি কি শিউর?\n"
+"আপনি ডিলিট করতে চাচ্ছেন?"
+
+#: admin/page-loader.php:175
+msgid ""
+"Are you sure!\n"
+"Want to Destroy Sheet data.\n"
+" OK or Cancel."
+msgstr ""
+"আপনি কি শিউর?\n"
+"সম্পুর্ন শীটের ডাটা ডিলেট করতে চাচ্ছেন?"
+
+#: admin/page-loader.php:171
+msgid "Check following Error"
+msgstr "নিচের ইরর গুলো দেখেন"
+
+#: admin/pages/incs/settings.php:56
+msgid "Checkout Quick Table"
+msgstr "দ্রুত এডিট টেবিল টা দেখুন"
+
+#: admin/pages/setup-steps/editor_email.php:43
+msgid "Click on Add people button and Add email with Editor Permisions."
+msgstr "Add people বাটনে ক্লিক করে আপনার ইমেইল এড করুন।"
+
+#: admin/pages/setup-steps/editor_email.php:41
+msgid "Click on Share button."
+msgstr "Share বাটনে ক্লিক করুন।"
+
+#. Author of the plugin
+msgid "CodeAstrology Team"
+msgstr "CodeAstrology Team"
+
+#: app/core/admin-base.php:36
+msgid "Configuration Setup is not started."
+msgstr "কনফিগারেশানের সেট-আপ এখনো শুরু হয়নি।"
+
+#: admin/page-loader.php:182
+msgid "Copied, Add this email as your Sheet's Editor"
+msgstr "ইমেইল কপি হয়েছে, এবার শীটের এডিটর হিসেবে দিয়ে দেন"
+
+#: admin/pages/setup-steps/app_script.php:14
+msgid "Copy AppsScript"
+msgstr "এপসস্ক্রিপ্ট কপি করুন"
+
+#: admin/pages/setup-steps/create_project.php:19
+msgid "Create a project"
+msgstr "প্রজেক্ট তৈর করুন"
+
+#: admin/pages/setup-steps/service_file.php:15
+msgid "Create a Service JSON file"
+msgstr "সার্ভিস JSON ফাইল তৈরি করুন"
+
+#: admin/pages/setup-wizard.php:33
+msgid "Create Project"
+msgstr "প্রজেক্ট "
+
+#: admin/page-loader.php:162
+msgid "Create Sheet"
+msgstr "শীট তৈরি করুন"
+
+#: admin/pages/setup-steps/api_key.php:16
+msgid "Credentials – APIs & Services"
+msgstr "Credentials – APIs & Services"
+
+#: app/handle/form-submit.php:387
+msgid "Data not set"
+msgstr ""
+
+#: app/handle/form-submit.php:341
+msgid "Database key not founded"
+msgstr "ডাটাবেসে key পাওয়া যায়নি"
+
+#: admin/pages/setup-steps/finish.php:68
+msgid "Delete all from Sheet"
+msgstr "শীট থেকে সব মুছুন"
+
+#: admin/page-loader.php:178
+msgid "Deleteing.."
+msgstr "মুছা হচ্ছে..."
+
+#: admin/pages/topbar.php:55
+msgid "Documentation"
+msgstr "ডকুমেন্টেশান"
+
+#: admin/page-loader.php:170
+msgid "Done and Limit Crossed!"
+msgstr "শেষ হয়েছে এবং লিমিট অতিক্রম করেছে"
+
+#: admin/pages/setup-steps/service_file.php:29
+msgid "Drag and drop your Sevice JSON file here or click to select."
+msgstr "ড্রাগ করে এখানে ফাইল ড্রপ করতে পারবেন বা বাছাই করুন"
+
+#: admin/pages/incs/settings.php:43
+msgid "Edit Table Title"
+msgstr "টেবিলের টাইটেল এডিট"
+
+#: admin/pages/setup-wizard.php:55
+msgid "Editor Email"
+msgstr "এডিটর ইমেইল"
+
+#: app/handle/form-submit.php:181
+msgid "Empty API_KEY."
+msgstr "API_KEY ফাকা।"
+
+#: app/handle/form-submit.php:177
+msgid "Empty Sheet Name."
+msgstr "ফাকা শীট নাম"
+
+#: admin/pages/setup-wizard.php:49
+msgid "Enable Sheet API"
+msgstr "Enable Sheet API"
+
+#: admin/page-loader.php:172
+msgid "Error Code: "
+msgstr "ইরর কোডঃ"
+
+#: app/handle/api-request-handle.php:230
+msgid "Failed to create new product."
+msgstr "নতুন প্রডাক্ট তৈরি সম্ভব হয়নি"
+
+#: admin/page-loader.php:259
+msgid "File content is not json!"
+msgstr "এটা json ফাইল না"
+
+#: admin/page-loader.php:181
+msgid "File selected: "
+msgstr "ফাইলঃ"
+
+#: admin/pages/setup-wizard.php:72
+msgid "Finish"
+msgstr "শেষ"
+
+#: app/handle/form-submit.php:104
+msgid "Form is not submitted."
+msgstr "ফর্ম সাবমিট করা হয়নি"
+
+#: app/handle/form-submit.php:106 app/handle/form-submit.php:325
+msgid "Form submission error!"
+msgstr "ফর্ম সাবমিটে কোন এরর!"
+
+#: admin/pages/topbar.php:48
+msgid "Get Premium Version"
+msgstr "নিয়ে নিন প্রিমিয়াম ভার্শন"
+
+#: app/functions.php:199 admin/pages/setup-steps/sheet_url.php:12
+msgid "Google Sheet"
+msgstr "গুগল শীট"
+
+#. Description of the plugin
+msgid ""
+"Help you to connect your WooCommerce website with Google Sheet as well as "
+"Manage your Stock easy from one menu with Advance Filter"
+msgstr ""
+"Help you to connect your WooCommerce website with Google Sheet as well as "
+"Manage your Stock easy from one menu with Advance Filter"
+
+#: app/functions.php:43
+msgid "Helper doc"
+msgstr "সাহায্যকারি লিংক"
+
+#. URI of the plugin
+msgid "https://codeastrology.com/how-to-setup-product-sync-master-plugin/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/codersaiful/#content-plugins"
+msgstr "https://profiles.wordpress.org/codersaiful/#content-plugins"
+
+#: app/service/products.php:546
+msgid "ID"
+msgstr "ID"
+
+#: admin/page-loader.php:97
+msgid "Installation Wizard"
+msgstr "সেট-আপ উইজার্ড"
+
+#: app/functions.php:218
+msgid "Invalid argument. Please check API_KEY."
+msgstr "এপিআই কি এর মধ্যে কোন সমস্যা"
+
+#: admin/page-loader.php:164
+msgid "Invalid file type. Please select a JSON file."
+msgstr "ভুলভাল ফাইল। দয়াকরে JSON ফাইল বাছাই করুন।"
+
+#: app/handle/form-submit.php:169
+msgid "Invalid/Empty Google Sheets link."
+msgstr "ফাকা বা ভুলভাল গুগলশীট লিংক দিয়েছেন"
+
+#: app/handle/quick-table.php:167
+msgid "Limit Crossed, Need Premium version."
+msgstr "লিমিট শেষ, প্রো ভার্শন প্রয়োজন"
+
+#: app/handle/api-request-handle.php:212
+msgid "New Dummy Product"
+msgstr "New Dummy Product"
+
+#: app/handle/quick-table.php:243
+msgid "Next"
+msgstr "পরের পৃষ্ঠা"
+
+#: admin/page-loader.php:43
+msgid "Next door to Google Sheets"
+msgstr "গুগল শীটের জন্য স্বাগতম"
+
+#: app/functions.php:114
+msgid "Next Step"
+msgstr "পরের ধাপ"
+
+#: app/handle/quick-table.php:305
+msgid "No product ID matched"
+msgstr "প্রোডাক্টের আইডি ম্যাচ করেনি"
+
+#: admin/admin-loader.php:52 admin/page-loader.php:230
+#: app/handle/form-submit.php:363 app/http/sheet.php:430
+msgid "Nonce not founded"
+msgstr "Nonce পাওয়া যায়নি"
+
+#: admin/pages/setup-steps/create_project.php:48
+msgid "Or Choose an existing project."
+msgstr ""
+
+#: admin/admin-loader.php:65
+msgid "Params empty or somethig went wrong"
+msgstr "Params ফাকা অথবা কোন একটা সমস্যা হয়েছে"
+
+#: app/handle/quick-table.php:273
+msgid "Params not founed"
+msgstr "Params পাওয়া যায়নি"
+
+#: admin/page-loader.php:169
+msgid "Pause"
+msgstr ""
+
+#: admin/page-loader.php:168
+msgid "Paused"
+msgstr ""
+
+#: app/functions.php:215
+msgid "Permission denied. Please check Enable Sheet API."
+msgstr ""
+
+#: admin/page-loader.php:173
+msgid "Please check connection again!"
+msgstr "কানেকশান পুনরায় চেক করুন"
+
+#: admin/pages/setup-wizard.php:202
+msgid "Please complete all the steps before Sync."
+msgstr "দয়াকরে সকল ধাপ সঠিকভাবে পুরন করুন"
+
+#: admin/page-loader.php:90 admin/pages/topbar.php:28
+msgid "Premium"
+msgstr "প্রিমিয়াম"
+
+#: app/handle/quick-table.php:242
+msgid "Previous"
+msgstr "পুর্বের পৃষ্ঠা"
+
+#: app/service/products.php:535
+msgid "Price"
+msgstr "মুল্য"
+
+#: admin/pages/incs/getting-start.php:5
+msgid "Pro Features"
+msgstr "প্রো ফিচার"
+
+#: app/http/sheet.php:74
+msgid "Problem in srvice file."
+msgstr "সার্ভিস ভাইলে প্রবলেম আছে।"
+
+#: app/handle/quick-table.php:274
+msgid "Product ID not founed"
+msgstr "প্রডাক্টের ID পাওয়া যায়নি"
+
+#: admin/page-loader.php:75 admin/page-loader.php:76
+msgid "Product Quick Edit"
+msgstr "দ্রুত প্রডাক্ট এডিট"
+
+#: app/handle/quick-table.php:133
+msgid "Product Quick Edit Table"
+msgstr "দ্রুত প্রডাক্ট এডিটের টেবিল"
+
+#: product-sync-master-sheet.php:46
+msgid "Product Stock Sync with Google Sheet for WooCommerce"
+msgstr "Product Stock Sync with Google Sheet for WooCommerce"
+
+#: app/service/products.php:523
+msgid "Product Title"
+msgstr "প্রোডাক্ট নাম"
+
+#: app/handle/api-request-handle.php:188 app/handle/quick-table.php:300
+msgid "Product Updated Successfully"
+msgstr "প্রডাক্ট আপডেট হয়েছে"
+
+#: admin/page-loader.php:115
+msgid "Quick Edits"
+msgstr ""
+
+#: app/service/products.php:531
+msgid "R Price"
+msgstr "সাভাবিক মুল্য"
+
+#: app/service/products.php:539
+msgid "Sale Price"
+msgstr "ছাড় মুল্য"
+
+#: admin/pages/settings.php:85 admin/pages/setup-wizard.php:223
+msgid "Save Change"
+msgstr "সংরক্ষন"
+
+#: admin/page-loader.php:179
+msgid "Saving.."
+msgstr "সেভ হচ্ছে"
+
+#: admin/pages/setup-steps/add_trigger.php:32
+#: admin/pages/setup-steps/app_script.php:81
+msgid "Schreenshot and Video"
+msgstr ""
+
+#: app/functions.php:115
+msgid "Screenshot"
+msgstr ""
+
+#: admin/pages/setup-steps/api_key.php:23
+msgid "Screenshots"
+msgstr "ছবি"
+
+#: admin/pages/setup-steps/editor_email.php:35
+msgid "Screenshots and Video"
+msgstr "ছবি ও ভিডিও"
+
+#: admin/page-loader.php:183
+msgid "Script Copied! - Now add to your Sheet."
+msgstr "স্ক্রিপ্ট কপি করা হয়েছে, এখন শীটে এড করুন"
+
+#: admin/pages/setup-steps/service_file.php:31
+msgid "Select File"
+msgstr "ফাইল সিলেক্ট করুন"
+
+#: app/functions.php:239
+msgid "Select Sheet"
+msgstr "শীট নির্বাচন"
+
+#: admin/pages/setup-wizard.php:38
+msgid "Service File"
+msgstr "সার্ভিস JSON ফাইল"
+
+#: admin/page-loader.php:255
+msgid "Service file content is not right"
+msgstr "সার্ভিস ফাইল টি সঠিক না"
+
+#: admin/page-loader.php:250
+msgid "Service file is OK"
+msgstr "পারফেক্ট সার্ভিস ফাইল"
+
+#: admin/page-loader.php:287
+msgid "Service json file has removed."
+msgstr "সার্ভিস JSON ফাইল মুছা হয়েছে।"
+
+#: admin/page-loader.php:289 app/handle/form-submit.php:189
+msgid "Service json file not founded."
+msgstr "সার্ভিস JSON ফাইল পাওয়া যায়নি।"
+
+#: admin/page-loader.php:72
+msgid "Setting different options"
+msgstr ""
+
+#: admin/admin-loader.php:44 admin/page-loader.php:73 admin/page-loader.php:106
+#: admin/pages/incs/settings.php:12
+msgid "Settings"
+msgstr "সেটিং"
+
+#: admin/pages/incs/getting-start.php:44
+msgid "Setup guide - step by step"
+msgstr "সেট-আপ গাইড - ধাপে ধাপে"
+
+#: admin/page-loader.php:292
+msgid "Sevcie file is not founded."
+msgstr "সার্ভিস ফাইল পাওয়া যায়নি"
+
+#: admin/page-loader.php:176
+msgid "Sheet Cleared!"
+msgstr "শীট মুছা হয়েছে"
+
+#: admin/page-loader.php:177
+msgid "Sheet has Cleared!"
+msgstr "শীট মুছা হলো"
+
+#: app/handle/form-submit.php:158
+msgid "Sheet ID not founded"
+msgstr "শীটের ID পাওয়া যায়নি।"
+
+#: admin/pages/setup-wizard.php:28
+#, fuzzy
+#| msgid "Sheet name"
+msgid "Sheet Name"
+msgstr "শীটের নাম"
+
+#: app/http/sheet.php:102
+msgid "Sheet name not founded"
+msgstr "শীটের নাম দেওয়া নাই"
+
+#: admin/pages/setup-wizard.php:24
+msgid "Sheet URL"
+msgstr "শীট লিংক"
+
+#: app/http/sheet.php:88
+msgid "Sheet URL is not added"
+msgstr "শীটের লিংক এড করা হয়নি"
+
+#: admin/page-loader.php:185
+msgid "Show All"
+msgstr "সবট্যাব একসাথে"
+
+#: app/handle/quick-table.php:261
+msgid "Showing %post_count% out of %found_posts%"
+msgstr "এখন %found_posts% প্রডাক্ট থেকে %post_count% দেখাচ্ছে"
+
+#: app/http/sheet.php:97
+#, fuzzy
+#| msgid "Sheet ID not found!"
+msgid "Spreadsheet ID not found!"
+msgstr "শীটের ID পাওয়া যায়নি।"
+
+#: app/service/products.php:527
+msgid "Stock"
+msgstr "স্টক"
+
+#: admin/pages/setup-steps/create_project.php:44
+msgid "Submit project and click on CREATE button."
+msgstr ""
+
+#: app/handle/api-request-handle.php:221
+msgid "Success"
+msgstr "সফল হয়েছে"
+
+#: admin/page-loader.php:166
+msgid "Sync Done"
+msgstr "সিংক্রোনাইজ হয়েছে"
+
+#: admin/page-loader.php:64 admin/page-loader.php:65 admin/pages/topbar.php:23
+msgid "Sync Master Sheet"
+msgstr "Sync Master Sheet"
+
+#. Name of the plugin
+msgid "Sync Master Sheet - Product Sync with Google Sheet for WooCommerce"
+msgstr ""
+
+#: admin/pages/topbar.php:9
+msgid "Syncronize Dashboard"
+msgstr "সিঙ্ক্রোনাইজ ডাসবোর্ড"
+
+#: admin/pages/setup-steps/finish.php:61
+msgid "Syncronize Sheet"
+msgstr "শীট সিংক্রোনাইজ"
+
+#: admin/page-loader.php:167
+msgid "Syncronizing..."
+msgstr "সিংক্রোনাইজ হচ্ছে..."
+
+#: admin/page-loader.php:303
+#, php-format
+msgid ""
+"Thank you for using our Plugin <a href=\"%s\" target=\"_blank\">%sPlease "
+"review us</a>."
+msgstr ""
+"আমাদের প্লাগিন ব্যবহারের জন্য ধন্যবাদ <a href=\"%s\" target=\"_blank\">"
+"%sPlease review us</a>."
+
+#: app/handle/form-submit.php:170
+msgid "There is an error on your Spreadsheet URL."
+msgstr ""
+
+#: admin/pages/incs/getting-start.php:41
+msgid "Total Sync:"
+msgstr "মোট সিঙ্ক্রোনাইজ হয়েছেঃ"
+
+#: admin/pages/setup-wizard.php:66
+msgid "Trigger"
+msgstr ""
+
+#: app/service/products.php:550
+msgid "Type"
+msgstr "ধরন"
+
+#: admin/page-loader.php:184
+msgid "Unable to copy to clipboard"
+msgstr "কপি হয়নি"
+
+#: app/handle/quick-table.php:211
+msgid "Unable to edit"
+msgstr "এডিট করা যাবেনা"
+
+#: admin/pages/setup-steps/service_file.php:20
+msgid "Upload your service file"
+msgstr ""
+
+#: product-sync-master-sheet.php:143
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/page-loader.php:174
+#, fuzzy
+#| msgid "Wow Sync: total %currentCount% products"
+msgid "Wow Sync: total currentCount products"
+msgstr "ওয়াও এই মাত্র মোট %currentCount% প্রডাক্ট সিংক হয়েছে"
+
+#: admin/page-loader.php:278
+msgid "Wrong file is not uploaded to server"
+msgstr "ভুলভাল ফাইল সার্ভারে আপলোড হবে না"
+
+#: admin/pages/setup-steps/sheet_url.php:9
+msgid "Your Google Sheet"
+msgstr ""
+
+#: admin/page-loader.php:163 admin/pages/setup-steps/add_trigger.php:13
+#: admin/pages/setup-steps/app_script.php:61
+#: admin/pages/setup-steps/editor_email.php:15
+#: admin/pages/setup-steps/finish.php:79
+#: admin/pages/setup-steps/sheet_name.php:25
+msgid "Your Sheet"
+msgstr ""
